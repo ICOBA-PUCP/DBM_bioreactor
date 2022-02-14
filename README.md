@@ -1,2 +1,2 @@
-# DBM_bioreactor
-Repository for an open-source perfusion bioreactor for medium-scale fabrication of demineralized bone tissue grafts
+# Demineralized bone matrix perfusion bioreactor
+Project wiki: (Enlace Google Sites)
